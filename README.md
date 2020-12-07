@@ -1,7 +1,7 @@
 # MVP
 [简书地址](https://www.jianshu.com/p/19f5aa0435b1)
 
-[001](#mvp-进阶)
+[进阶内容请看001---直播架构搭建-礼物](#mvp-进阶)
 
 #### MVC
 MVC 即 Model View Controller（模型 视图 控制器）
